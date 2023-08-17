@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kumarsam17.github.io/diet/static/css/main.98745ee4.css",
+    "main.js": "/Kumarsam17.github.io/diet/static/js/main.4eaf84d4.js",
+    "index.html": "/Kumarsam17.github.io/diet/index.html",
+    "main.98745ee4.css.map": "/Kumarsam17.github.io/diet/static/css/main.98745ee4.css.map",
+    "main.4eaf84d4.js.map": "/Kumarsam17.github.io/diet/static/js/main.4eaf84d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98745ee4.css",
+    "static/js/main.4eaf84d4.js"
+  ]
+}
