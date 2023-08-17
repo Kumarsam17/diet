@@ -1,0 +1,15 @@
+.main-footer{
+    height: 300px;
+    width: 100%;
+    background: rgb(43, 90, 139);
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.footer{
+    height: 200px;
+    width: 300px;
+    background: white;
+}

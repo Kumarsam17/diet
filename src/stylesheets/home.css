@@ -1,0 +1,33 @@
+.main{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100%;
+    
+    
+    
+    
+   
+   
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex: 1;
+    margin-top: 100px;
+   
+}
+.cardff{
+    height: 300px;
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    
+}
+    
+    
